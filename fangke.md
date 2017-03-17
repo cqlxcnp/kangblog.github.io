@@ -2,6 +2,10 @@
 layout: page
 title: 最近访客「Recent Visitors」 
 ---
+
+
+![hello world](http://omjh2j5h3.bkt.clouddn.com/2017-03-09.jpg)
+
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"robotkang"};
