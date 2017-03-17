@@ -1,13 +1,7 @@
 ---
 layout: page
-title: 留言板「MESSAGE」 
+title: 最近访客「Recent Visitors」 
 ---
-来留下你的足迹吧！哈哈...        
-<P>留言让我们距离更近哦..
-<p>对本网站有什么建议都可以提出来，我会不断的改进...
-<!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="/liuyan/" data-title="留言板" data-url="http://roboutkang/liuyan/"></div>
-<!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"robotkang"};
@@ -22,7 +16,11 @@ var duoshuoQuery = {short_name:"robotkang"};
 	</script>
 <!-- 多说公共JS代码 end -->
 <p>
-<a href="/fangke/" target="_blank"> <h5>Recent Visitors</h5></a>  
+<p>
+<div class="ds-recent-visitors" data-avatar-size="50" data-num-items="100" id="ds-recent-visitors"></div>
+
+
+
 
 
 
