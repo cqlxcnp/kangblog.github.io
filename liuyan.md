@@ -24,6 +24,7 @@ var duoshuoQuery = {short_name:"robotkang"};
 <div style="color:#708090">
 <p>
 <a href="/fangke/" target="_blank"> <h5>Recent Visitors</h5></a>  
+</p>
 </div>
 
 
