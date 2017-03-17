@@ -21,10 +21,10 @@ var duoshuoQuery = {short_name:"robotkang"};
 	})();
 	</script>
 <!-- 多说公共JS代码 end -->
-<div style="color:#708090">
+
 <p>
-<a href="/fangke/" target="_blank"> <h5>Recent Visitors</h5></a>  
+<a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>  
 </p>
-</div>
+
 
 
