@@ -52,6 +52,7 @@ date: 2017-03-01
 <h3> 联系方式 </h3>   
 <p>邮箱：robotkang@foxmail.com   &emsp;微信：kang1390305137
 <p>
-
+<a href="/lovekang/" style="color:#708090"> <h5>Website Time</h5></a>  
+</p>
 
 
