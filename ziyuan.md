@@ -45,4 +45,12 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="967" height="195" alt="photos"/></a>
 
+<p>
+<a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
+</p>
+<a href="http://www.templatesy.com/demo/462/index.html" target="_blank" >2048</a>- 经典小游戏.
+<a href="http://www.templatesy.com/demo/194/index.html" target="_blank" >Tank</a>- 经典中的经典.。。。
+
+
+
 
