@@ -50,7 +50,5 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 </p>
 <a href="http://www.templatesy.com/demo/462/index.html" target="_blank" >2048</a>- 经典小游戏.
 <a href="http://www.templatesy.com/demo/194/index.html" target="_blank" >Tank</a>- 经典中的经典.。。。
-
-
-
+<a href="http://demo.mycodes.net/html5/SVGdianziyueqi/"  target="_blank" >Drum Kit</a>- 在线架子鼓.
 
