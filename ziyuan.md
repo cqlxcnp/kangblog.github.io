@@ -8,7 +8,9 @@ title: 资源「USEFUL LINKS」
 <P>       
 <h3> Some useful/beautiful web </h3>   
 <p>
-<a href="https://www.panc.cc" target="_blank">胖次</a>- 网盘，资料搜索..
+<a href="https://www.panc.cc" target="_blank">胖次</a>- 网盘，资料搜索..&nbsp;&nbsp;
+<a href="/app/" target="_blank">APP下载</a>- 专属软件.&nbsp;&nbsp;
+<a href="/college/" target="_blank">大学|四年</a>- 记青春年华.
 <p>
 <a href="http://www.86ditu.com" target="_blank">卫星地图「谷歌」</a>- 来找找你家的房顶吧...
 <p>
@@ -33,7 +35,7 @@ title: 资源「USEFUL LINKS」
 
 <h3> Others</h3>  
  <p> 
-Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a>
+Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a><a href="http://nav.templatesy.com/" >Templatesy</a>-前端网址导航.
 <p>
 <a href="http://www.w3school.com.cn" target="_blank" > w3school </a>-在w3school上，你可以找到全面的~建站资料「html、css、sql、php...」
 </p>
@@ -48,7 +50,7 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <p>
 <a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
 </p>
-<a href="http://www.templatesy.com/demo/462/index.html" target="_blank" >2048</a>- 经典小游戏.
-<a href="http://www.templatesy.com/demo/194/index.html" target="_blank" >Tank</a>- 经典中的经典.。。。
-<a href="http://demo.mycodes.net/html5/SVGdianziyueqi/"  target="_blank" >Drum Kit</a>- 在线架子鼓.
-
+<a href="http://www.templatesy.com/demo/462/index.html" target="_blank" >2048</a>- 经典小游戏.&nbsp;&nbsp;
+<a href="http://www.templatesy.com/demo/194/index.html" target="_blank" >Tank</a>- 经典中的经典...
+<a href="http://www.templatesy.com/demo/342/index.html"  target="_blank" >Drum Kit</a>- 在线架子鼓.&nbsp;&nbsp;
+<a href="/gamebird/"  target="_blank" >Flappy Bird</a>- 像素小鸟.
